@@ -12,5 +12,10 @@ public class Login {
 		// TODO Auto-generated method stub
 
 	}
+    public int ageCal() {
+    	System.out.println("my agi is..");
+		return (Integer) null;
+    	
+    }
 
 }
