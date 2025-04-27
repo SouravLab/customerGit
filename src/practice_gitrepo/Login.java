@@ -12,5 +12,8 @@ public class Login {
 		// TODO Auto-generated method stub
 
 	}
+	public void teardown(){
+			System.out.println("teardown..");
+	}
 
 }
